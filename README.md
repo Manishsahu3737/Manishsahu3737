@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Manish Sahu!
-
 ### Aspiring Data Enthusiast | Skilled in Data Analytics
-
----
-
-
 🔍 I specialize in transforming data into actionable insights using a variety of tools such as Excel, Power BI, SQL, and Python. I am currently expanding my knowledge in advanced statistics and data science, focusing on improving analytical capabilities.
 
 <div align="center">
